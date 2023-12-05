@@ -5,3 +5,8 @@ h1 {
 h2 {
     text-align: center;
 }
+
+.services {
+    width: 500px;
+    text-align: center;
+}
